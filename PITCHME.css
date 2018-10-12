@@ -9,9 +9,9 @@ body {
   /* fallback for old browsers */
   background: #A52A2A;
   /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-linear-gradient(to right, #A52A2A, #8B4563);
+  background: -webkit-linear-gradient(to right, #A52A2A, #A52A2B);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  background: linear-gradient(to right, #A52A2A, #8B4563);
+  background: linear-gradient(to right, #A52A2A, #A52A2B);
 }
 
 .reveal pre {
