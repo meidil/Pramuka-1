@@ -6,7 +6,7 @@
 #
 theme : moon
 theme-override : PITCHME.css
-logo : logo.png
+logo : download (1).png
 highlight : atom-one-dark
 transition : none
 published : true
