@@ -73,20 +73,20 @@ Setelah kita lulus dari Syarat Kecakapan Umum sebagai bantara, kita mempunyai tu
 ---
 Selain itu, ada kewajiban lain sebagai PENEGAK BANTARA diantaranya sebagai berikut :
 ---
-• Meningkatkan rasa percaya akan kemampuan dirinya.
-• Menghargai kemampuan orang lain.
-• Menjaga nama baik pribadi dan ambalannya.
+- Meningkatkan rasa percaya akan kemampuan dirinya.
+- Menghargai kemampuan orang lain.
+- Menjaga nama baik pribadi dan ambalannya.
 
 ---
-• Mengembangkan daya kreasi yang positif.
-• Berani menyampaikan pendapat positif kepada orang lain dan menghargai orang lain.
-• Tahan menerima kritik dari orang lain.
+- Mengembangkan daya kreasi yang positif.
+- Berani menyampaikan pendapat positif kepada orang lain dan menghargai orang lain.
+- Tahan menerima kritik dari orang lain.
 
 ---
-• Bertanggung jawab terhadap tugas yang dipercayakan kepadanya.
-• Berbakti kepada masyarakat,bangsa dan negara.
-• Mengembangkan takwa kepada Tuhan Yang Maha Esa.
-• Mengembangkan kepemimpinan.
+- Bertanggung jawab terhadap tugas yang dipercayakan kepadanya.
+- Berbakti kepada masyarakat,bangsa dan negara.
+- Mengembangkan takwa kepada Tuhan Yang Maha Esa.
+- Mengembangkan kepemimpinan.
 
 ---
 
